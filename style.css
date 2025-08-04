@@ -29,8 +29,7 @@ header span {
 
 .main-section {
     /* Стили для первой секции */
-    padding-top: 60px;
-    margin-bottom: 60px;
+    padding: 60px 0;
     background-color: #FAFAFF;
 }
 
